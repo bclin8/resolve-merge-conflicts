@@ -1,3 +1,3 @@
-# References List
+# References
 
 - octocat 2
